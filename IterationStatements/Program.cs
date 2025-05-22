@@ -45,7 +45,7 @@ namespace IterationStatements
             // b) Then add "num" to the collection "numbers"
             //    Hint: You can copy how this was done in the do-while loop
 
-            while (num < 200) ;
+            while (num < 200)
 
             {
                 // Your code goes here
